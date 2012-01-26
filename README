@@ -1,0 +1,14 @@
+  ____                    _____ _                    
+ / __ \                  / ____| |                   
+| |  | |_ __   ___ _ __ | (___ | |__   __ _ _ __ ___ 
+| |  | | '_ \ / _ \ '_ \ \___ \| '_ \ / _` | '__/ _ \
+| |__| | |_) |  __/ | | |____) | | | | (_| | | |  __/
+ \____/| .__/ \___|_| |_|_____/|_| |_|\__,_|_|  \___|
+       | |     Liberdade de Informação                                      
+       |_| 
+OpenShare é um projeto idealizado pela @LulzSecBrazil.
+Consiste em proporcionar a liberdade de informação, possibilitando que 
+qualquer um compartilhe qualquer tipo de arquivo de forma TOTALMENTE gratuita.
+Neste repositório você encontrará o sistema que o OpenShare Utiliza em seus servidores.
+
+Ese código fonte está sob a Licença GPL.
